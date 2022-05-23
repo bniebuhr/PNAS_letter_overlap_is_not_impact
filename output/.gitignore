@@ -1,0 +1,8 @@
+# files to ignore
+*.qml
+*.csv
+*.rda
+*.tif
+*.tiff
+*.pdf
+*.png
